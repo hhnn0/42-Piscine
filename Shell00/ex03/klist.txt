@@ -1,0 +1,5 @@
+Credentials cache: API:F35EBBD5-3E2F-44E1-B7B6-32268F4602FF
+        Principal: hyunhkim@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Jan  4 13:59:58 2022  Jan  4 23:59:58 2022  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
